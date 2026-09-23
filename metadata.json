@@ -1,0 +1,7 @@
+{
+  "name": "MITS Gwalior - Deemed University Portal",
+  "description": "Official interactive web portal of Madhav Institute of Technology & Science (MITS), Gwalior (M.P.), India - Deemed University, NAAC Accredited A++ Grade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
